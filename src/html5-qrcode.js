@@ -4,8 +4,8 @@
             return this.each(function() {
                 var currentElem = $(this);
 
-                var height = currentElem.height();
-                var width = currentElem.width();
+                var height = 250;
+                var width = 350;
 
                 if (height == null) {
                     height = 250;
