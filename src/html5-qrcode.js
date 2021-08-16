@@ -4,7 +4,7 @@
             return this.each(function() {
                 var currentElem = $(this);
 
-                var height = 250;
+                var height = 350;
                 var width = 350;
 
                 if (height == null) {
